@@ -1,0 +1,7 @@
+{
+    "url": "http://gitea-server.rds2:3000/dt50/ml_multigate.git",
+    "name": "ML Multigate",
+    "host": "gitea",
+    "branch": "master",
+    "eda": "kicad"
+  }
