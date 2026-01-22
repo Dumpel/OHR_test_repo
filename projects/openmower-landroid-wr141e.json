@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/rich21044/Openmower-for-Landroid-WR141E",
+    "name": "Openmower for Landroid WR141E",
+    "description": "Taking the hardware developed as part of ClemensElfleins work on Openmower and adapting it to fit a 2019 Landroid WR141E.",
+    "license": "GPL-3.0",
+    "eda": "kicad",
+    "branch": "main",
+    "tags": ["openmower", "landroid", "robotics", "lawn-mower"],
+    "website": "https://github.com/rich21044/Openmower-for-Landroid-WR141E"
+}
