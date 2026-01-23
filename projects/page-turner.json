@@ -1,10 +1,11 @@
 {
     "url": "http://gitea-server.rds2:3000/GITHMIRROR/joelspadin-page-turner.git",
     "name": "Page Turner",
-    "description": "USB foot pedals for turning pages on a sheet music reader",
+    "description": "Updated description",
+    "image_src": "https://raw.githubusercontent.com/joelspadin/page-turner/main/enclosure/images/photo.png",
     "host": "gitea",
     "branch": "main",
     "eda": "kicad",
-    "tags": ["foot-pedal", "keyboard", "stm32"],
+    "tags": ["foot-pedal", "keyboard", "stm32", "new-tag"],
     "website": "https://github.com/joelspadin/page-turner"
 }
