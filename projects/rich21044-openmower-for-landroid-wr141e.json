@@ -1,0 +1,13 @@
+{
+  "branch": "main",
+  "description": "test OHR repo to add",
+  "eda": "kicad",
+  "guest_token": "3AqcQf_JslLtn9q6",
+  "name": "rich21044/Openmower-for-Landroid-WR141E",
+  "tags": [
+    "test",
+    "new",
+    "addme"
+  ],
+  "url": "https://github.com/rich21044/Openmower-for-Landroid-WR141E.git"
+}
